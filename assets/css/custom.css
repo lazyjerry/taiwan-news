@@ -3,11 +3,24 @@
    Loaded on top of jekyll/minima dark skin
    ================================================================ */
 
+:root {
+  --tn-bg: #07121f;
+  --tn-surface: #0f2236;
+  --tn-surface-soft: #162c44;
+  --tn-border: #2d4f78;
+  --tn-text: #f8fbff;
+  --tn-blue: #4ea1ff;
+  --tn-green: #23c9a9;
+  --tn-red: #f05252;
+}
+
 /* --- Typography --- */
 body {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI",
                "Noto Sans TC", "PingFang TC", "Microsoft JhengHei",
                "Helvetica Neue", sans-serif;
+  background: linear-gradient(180deg, #06101b 0%, var(--tn-bg) 45%, #081527 100%);
+  color: var(--tn-text);
 }
 
 .wrapper {
@@ -17,7 +30,7 @@ body {
 /* --- Header --- */
 .site-header {
   border-top: none !important;
-  border-bottom: 3px solid #ef4444 !important;
+  border-bottom: 3px solid var(--tn-red) !important;
 }
 
 .site-title,
@@ -28,7 +41,7 @@ body {
 }
 
 .site-nav .page-link:hover {
-  color: #ef4444 !important;
+  color: var(--tn-green) !important;
   text-decoration: none;
 }
 
@@ -68,8 +81,8 @@ body {
   right: 0;
   top: calc(100% + 0.5rem);
   min-width: 19rem;
-  background: #111827;
-  border: 1px solid #334155;
+  background: var(--tn-surface);
+  border: 1px solid var(--tn-border);
   border-radius: 0.55rem;
   box-shadow: 0 10px 25px rgba(0, 0, 0, 0.35);
   padding: 0.35rem;
@@ -85,7 +98,7 @@ body {
 }
 
 .nav-dropdown-menu .page-link:hover {
-  background: #1f2937;
+  background: var(--tn-surface-soft);
 }
 
 @media screen and (max-width: 600px) {
@@ -123,7 +136,7 @@ body {
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 0.1em;
-  color: #64748b;
+  color: var(--tn-green);
   margin-top: 2.5rem;
   margin-bottom: 1rem;
   border-bottom: none !important;
@@ -147,28 +160,28 @@ body {
 .news-list li a {
   display: block;
   padding: 0.875rem 1.25rem;
-  background-color: #1e293b;
-  border: 1px solid #334155;
-  border-left: 4px solid #ef4444;
+  background-color: var(--tn-surface);
+  border: 1px solid var(--tn-border);
+  border-left: 4px solid var(--tn-red);
   border-radius: 0 8px 8px 0;
   text-decoration: none !important;
   font-weight: 600;
   font-size: 1rem;
-  color: #e2e8f0 !important;
+  color: var(--tn-text) !important;
   transition: background-color 0.15s ease, border-left-color 0.15s ease;
 }
 
 .news-list li a:hover {
-  background-color: #253347;
-  border-left-color: #f87171;
-  color: #fff !important;
+  background-color: var(--tn-surface-soft);
+  border-left-color: var(--tn-green);
+  color: #ffffff !important;
 }
 
 /* --- Post page header --- */
 .post-header {
   padding-bottom: 1.5rem;
   margin-bottom: 2rem;
-  border-bottom: 1px solid #334155;
+  border-bottom: 1px solid var(--tn-border);
 }
 
 .post-title {
@@ -192,15 +205,25 @@ body {
 .post-content h2 {
   font-size: 1.05rem !important;
   font-weight: 700;
-  border-left: 4px solid #ef4444;
+  border-left: 4px solid var(--tn-red);
   padding-left: 0.75rem;
   margin-top: 2.5rem !important;
   margin-bottom: 0.875rem;
 }
 
+.post-content a,
+.home a {
+  color: var(--tn-blue);
+}
+
+.post-content a:hover,
+.home a:hover {
+  color: var(--tn-green);
+}
+
 .post-content hr {
   border: 0 !important;
-  border-top: 1px solid #1e293b !important;
+  border-top: 1px solid var(--tn-border) !important;
   margin: 1.5rem 0;
 }
 
@@ -213,7 +236,7 @@ body {
 /* --- Footer --- */
 .site-footer {
   margin-top: 4rem;
-  border-top: 1px solid #1e293b !important;
+  border-top: 1px solid var(--tn-border) !important;
 }
 
 .rss-subscribe {
@@ -222,9 +245,9 @@ body {
 
 /* --- TTS button: match accent color --- */
 #tts-bar button {
-  background: #ef4444 !important;
+  background: var(--tn-red) !important;
 }
 
 #tts-bar button:hover {
-  background: #dc2626 !important;
+  background: var(--tn-green) !important;
 }

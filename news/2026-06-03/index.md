@@ -17,9 +17,9 @@ date: 2026-06-03
 
 相似新聞：
 1. 台股大漲 901 點收 46459.16 點，盤中與收盤指數雙雙再創新高
-來源：https://tw.stock.yahoo.com/news/%E7%9B%A4%E5%BE%8C%E7%84%A6%E9%BB%9E-%E5%8F%B0%E8%82%A1%E5%A4%A7%E6%BC%B2901%E9%BB%9E%E7%BA%8C%E5%89%B5%E6%96%B0%E9%AB%98-%E9%80%A34%E5%A4%A9%E6%94%B6%E7%B4%85%E4%B8%8A%E6%BC%B2%E9%81%942822%E9%BB%9E-092501812.html
+來源：[tw.stock.yahoo.com](https://tw.stock.yahoo.com/news/%E7%9B%A4%E5%BE%8C%E7%84%A6%E9%BB%9E-%E5%8F%B0%E8%82%A1%E5%A4%A7%E6%BC%B2901%E9%BB%9E%E7%BA%8C%E5%89%B5%E6%96%B0%E9%AB%98-%E9%80%A34%E5%A4%A9%E6%94%B6%E7%B4%85%E4%B8%8A%E6%BC%B2%E9%81%942822%E9%BB%9E-092501812.html)
 2. 台股盤後：COMPUTEX 與 Marvell 題材引爆光通訊全面噴發，加權指數勁揚 901 點再寫歷史新高
-來源：https://www.sinotrade.com.tw/richclub/hotstock/%E5%8F%B0%E8%82%A1%E7%9B%A4%E5%BE%8C-COMPUTEX-Marvell%E9%A1%8C%E6%9D%90%E5%BC%95%E7%88%86%E5%85%89%E9%80%9A%E8%A8%8A%E5%85%A8%E9%9D%A2%E5%99%B4%E7%99%BC-%E9%87%91%E8%9E%8D%E8%88%87%E9%9B%BB%E5%8A%9B%E6%97%8F%E7%BE%A4%E5%90%8C%E6%AD%A5%E8%B5%B0%E5%BC%B7-%E5%8A%A0%E6%AC%8A%E6%8C%87%E6%95%B8%E5%8B%81%E6%8F%9A901%E9%BB%9E%E5%86%8D%E5%AF%AB%E6%AD%B7%E5%8F%B2%E6%96%B0%E9%AB%98-0603-6a1fdf16b55a18bfaf1860f0
+來源：[www.sinotrade.com.tw](https://www.sinotrade.com.tw/richclub/hotstock/%E5%8F%B0%E8%82%A1%E7%9B%A4%E5%BE%8C-COMPUTEX-Marvell%E9%A1%8C%E6%9D%90%E5%BC%95%E7%88%86%E5%85%89%E9%80%9A%E8%A8%8A%E5%85%A8%E9%9D%A2%E5%99%B4%E7%99%BC-%E9%87%91%E8%9E%8D%E8%88%87%E9%9B%BB%E5%8A%9B%E6%97%8F%E7%BE%A4%E5%90%8C%E6%AD%A5%E8%B5%B0%E5%BC%B7-%E5%8A%A0%E6%AC%8A%E6%8C%87%E6%95%B8%E5%8B%81%E6%8F%9A901%E9%BB%9E%E5%86%8D%E5%AF%AB%E6%AD%B7%E5%8F%B2%E6%96%B0%E9%AB%98-0603-6a1fdf16b55a18bfaf1860f0)
 
 ---
 
@@ -39,9 +39,9 @@ date: 2026-06-03
 
 相似新聞：
 1. 黃仁勳遶場 COMPUTEX 賺一台車！喊話鴻海「吃越多紅豆餅產出越多」
-來源：https://finance.technews.tw/2026/06/03/cavira/
+來源：[finance.technews.tw](https://finance.technews.tw/2026/06/03/cavira/)
 2. 外媒問投資台灣夠安全？黃仁勳「1 秒幽默」化解
-來源：https://video.ltn.com.tw/article/Kyy32MfuXoI/PLI7xntdRxhw03nlbog26AEgBkNoCHWcv-
+來源：[video.ltn.com.tw](https://video.ltn.com.tw/article/Kyy32MfuXoI/PLI7xntdRxhw03nlbog26AEgBkNoCHWcv-)
 
 ---
 
@@ -53,7 +53,7 @@ date: 2026-06-03
 
 相似新聞：
 1. 被問驅逐記者中共戰狼當機 20 秒，綠委：代表中國政府心虛
-來源：https://www.nownews.com/news/6842808
+來源：[www.nownews.com](https://www.nownews.com/news/6842808)
 
 ---
 
@@ -65,7 +65,7 @@ date: 2026-06-03
 
 相似新聞：
 1. 日菲 EEZ 劃界，外交部：應與我協商
-來源：https://news.ltn.com.tw/news/politics/paper/1757361
+來源：[news.ltn.com.tw](https://news.ltn.com.tw/news/politics/paper/1757361)
 
 ---
 
@@ -77,7 +77,7 @@ date: 2026-06-03
 
 相似新聞：
 1. 「這國家」驚傳槓上北京了！總統突震撼相挺
-來源：https://www.ftvnews.com.tw/news/detail/2026603W0419
+來源：[www.ftvnews.com.tw](https://www.ftvnews.com.tw/news/detail/2026603W0419)
 
 ---
 
@@ -89,7 +89,7 @@ date: 2026-06-03
 
 相似新聞：
 1. 國防預算刪減牽動台灣下一代系統戰力整合
-來源：https://udn.com/news/story/6853/9541088
+來源：[udn.com](https://udn.com/news/story/6853/9541088)
 
 ---
 
@@ -109,7 +109,7 @@ date: 2026-06-03
 
 相似新聞：
 1. T-34C 墜毀 2 飛官殉職，今年逾 10 億保修預算仍卡立法院
-來源：https://www.upmedia.mg/news_info.php?Type=2&SerialNo=206951
+來源：[www.upmedia.mg](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=206951)
 
 ---
 
@@ -121,4 +121,4 @@ date: 2026-06-03
 
 相似新聞：
 1. 兩岸跨境器官買賣鏈：台灣名醫非法仲介赴陸換肝換腎遭廢照
-來源：https://www.bbc.com/zhongwen/articles/crkpg6gxpxro/trad
+來源：[www.bbc.com](https://www.bbc.com/zhongwen/articles/crkpg6gxpxro/trad)

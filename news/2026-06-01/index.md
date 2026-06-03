@@ -11,106 +11,106 @@ date: 2026-06-01
 
 --
 **基隆 28 歲男子疑為 200 元外套弒母後墜樓，母子雙亡**
-來源：https://www.cna.com.tw/news/asoc/202605310095.aspx
+來源：[www.cna.com.tw](https://www.cna.com.tw/news/asoc/202605310095.aspx)
 基隆市七堵區 5 月 30 日傍晚發生人倫悲劇，28 歲無業王姓男子疑不滿母親買了一件 200 元防曬外套給哥哥卻沒買給他，與 59 歲母親爆發口角後情緒失控，持菜刀砍殺母親致頸部等多處刀傷，隨後從 12 樓頂樓墜落，母子送醫後均不治身亡。檢察官 31 日下午會同法醫相驗，確認母親身中近 10 刀、致命傷在頸部。
 
 相似新聞：
 1. 基隆無業逆子「亂刀弒母」後墜樓雙亡！高大成：殺意不明顯
-來源：https://www.chinatimes.com/realtimenews/20260531001905-260402
+來源：[www.chinatimes.com](https://www.chinatimes.com/realtimenews/20260531001905-260402)
 2. 基隆逆子為 200 元砍母「碩士畢業」卻疑長期窩在家
-來源：https://news.ebc.net.tw/news/society/554230
+來源：[news.ebc.net.tw](https://news.ebc.net.tw/news/society/554230)
 3. 基隆男子涉嫌殺母後自 12 樓墜地身亡…檢相驗媽媽身中 10 刀
-來源：https://udn.com/news/story/7315/9536742
+來源：[udn.com](https://udn.com/news/story/7315/9536742)
 4. 疑為 200 元外套爆爭執 基隆 28 歲逆子亂刀砍母後墜樓雙亡
-來源：https://news.tvbs.com.tw/local/3217837
+來源：[news.tvbs.com.tw](https://news.tvbs.com.tw/local/3217837)
 
 --
 **中颱薔蜜逼近台灣，多家航空取消沖繩航班、離島交通受阻**
-來源：https://www.cna.com.tw/news/ahel/202605310088.aspx
+來源：[www.cna.com.tw](https://www.cna.com.tw/news/ahel/202605310088.aspx)
 第六號颱風「薔蜜」5 月 31 日上午增強為中度颱風，朝北北西方向往琉球海面移動，6 月 1 日晚間最接近台灣。受外圍環流影響，華航取消桃園及高雄往返沖繩共 6 班機，長榮取消桃園往返沖繩 4 班機，台灣虎航取消 8 班飛沖繩航班。台東飛蘭嶼航班也因長浪兩度重飛後返航，基隆至石垣島首航渡輪「八重山丸」提早返台。
 
 相似新聞：
 1. 中颱薔蜜直撲 虎航 6/1 往返沖繩 8 航班取消
-來源：https://news.ltn.com.tw/news/life/breakingnews/5455585
+來源：[news.ltn.com.tw](https://news.ltn.com.tw/news/life/breakingnews/5455585)
 2. 薔蜜襲沖繩航班大亂！旅客收「取消信」奔機場竟是烏龍一場
-來源：https://news.tvbs.com.tw/life/3218170
+來源：[news.tvbs.com.tw](https://news.tvbs.com.tw/life/3218170)
 3. 薔蜜颱風影響 北部明下雨！中南部週四起雨勢加劇
-來源：https://news.ltn.com.tw/news/life/breakingnews/5455931
+來源：[news.ltn.com.tw](https://news.ltn.com.tw/news/life/breakingnews/5455931)
 
 --
 **6 月多項新制上路：夏月電價啟動、高齡駕駛換照、西門町禁菸**
-來源：https://www.storm.mg/lifestyle/11136125
+來源：[www.storm.mg](https://www.storm.mg/lifestyle/11136125)
 6 月 1 日起多項民生新制正式上路。夏月電價啟動，一般家庭平均月電費增加約 446 元；70 歲以上高齡駕駛人定期換照制度實施，未完成換照最高可處 3,600 元罰鍰；台北市西門町商圈全面禁菸，違規可處 2,000 至 10,000 元罰款；公保年金調升 6.46%，約 8,000 人受惠；中華郵政恢復寄美商品郵件並改採預繳關稅新制。
 
 相似新聞：
 1. 整理包／6 月考照、高齡駕駛新制上路 夏日電費也來了！哪些新規定不可不知
-來源：https://money.udn.com/money/story/124512/9536676
+來源：[money.udn.com](https://money.udn.com/money/story/124512/9536676)
 2. 6 月多項新制上路 高齡換照制度、夏月電價將實施
-來源：https://www.cna.com.tw/news/ahel/202605310088.aspx
+來源：[www.cna.com.tw](https://www.cna.com.tw/news/ahel/202605310088.aspx)
 
 --
 **COMPUTEX 2026 登場在即，黃仁勳 6/1 GTC Taipei 演講，台股看好攻 46,000 點**
-來源：https://udn.com/news/story/7251/9537229
+來源：[udn.com](https://udn.com/news/story/7251/9537229)
 COMPUTEX 台北國際電腦展 6 月 2 日正式開展，輝達執行長黃仁勳、英特爾執行長陳立武、超微執行長蘇姿丰三大 AI 巨頭先後抵台。黃仁勳 6 月 1 日將於 GTC Taipei 發表主題演講，市場聚焦新一代 N1X 晶片及 AI 供應鏈布局。法人看好台股 6 月在 COMPUTEX 及 AI 題材支撐下，有望挑戰 46,000 點大關。
 
 相似新聞：
 1. 台股最強 5 月天 投顧：6 月續旺
-來源：https://ec.ltn.com.tw/article/paper/1757052
+來源：[ec.ltn.com.tw](https://ec.ltn.com.tw/article/paper/1757052)
 2. 台股 6 月利多齊發 輝達 GTC、COMPUTEX 等輪番上陣 三大轉折訊號要注意
-來源：https://www.ctee.com.tw/news/20260601700042-439901
+來源：[www.ctee.com.tw](https://www.ctee.com.tw/news/20260601700042-439901)
 
 --
 **國民黨主席鄭麗文 6/1 率 14 人團訪美，聚焦台海和平議題**
-來源：https://www.upmedia.mg/tw/focus/politics/260086
+來源：[www.upmedia.mg](https://www.upmedia.mg/tw/focus/politics/260086)
 國民黨主席鄭麗文 6 月 1 日晚間率 14 人訪團啟程赴美，預計 16 日返台。行程橫跨舊金山、波士頓、紐約、華盛頓及洛杉磯，將拜會 AIT 華府總部、美國國會議員，並於哈佛大學、MIT、CSIS 等智庫進行座談，主軸聚焦「台海和平常態化」。值得注意的是，隨行中常委勤彭蓁過去曾發表統一言論，且文傳會系統無人隨行，引發外界關注。
 
 相似新聞：
 1. 鄭麗文明訪美 要讓美國了解「國民黨才是真正的朋友」
-來源：https://www.worldjournal.com/wj/amp/story/121475/9537157
+來源：[www.worldjournal.com](https://www.worldjournal.com/wj/amp/story/121475/9537157)
 2. 鄭麗文 6/1 啟程訪美！14 人名單曝光 文傳會罕見未隨行
-來源：https://news.ltn.com.tw/news/politics/breakingnews/5455847
+來源：[news.ltn.com.tw](https://news.ltn.com.tw/news/politics/breakingnews/5455847)
 
 --
 **立法院三讀通過 88 億軍購特別預算，美國務院表態支持**
-來源：https://news.ltn.com.tw/news/politics/breakingnews/5455415
+來源：[news.ltn.com.tw](https://news.ltn.com.tw/news/politics/breakingnews/5455415)
 立法院 5 月 29 日三讀通過 115 年度軍購特別預算案，共 88 億 1,057 萬 1,000 元，用於對美軍事採購，項目包括 M109A7 自走砲、海馬士多管火箭飛彈系統、標槍反裝甲飛彈等 5 項武器。美國國務院隨後表態支持，稱此舉「符合台灣關係法及逾 45 年來、橫跨美國歷屆政府的承諾」。
 
 相似新聞：
 1. 軍購特別預算三讀！美挺台獲取關鍵防禦力：橫跨歷屆政府的承諾
-來源：https://news.tvbs.com.tw/world/3217787
+來源：[news.tvbs.com.tw](https://news.tvbs.com.tw/world/3217787)
 
 --
 **雲林麥寮風力發電機起火，45 公尺高空難以灌救**
-來源：https://ec.ltn.com.tw/article/breakingnews/5455871
+來源：[ec.ltn.com.tw](https://ec.ltn.com.tw/article/breakingnews/5455871)
 台電位於雲林麥寮三盛保安林地的風力發電第 17 號機組，5 月 31 日中午約 12 時 35 分不明原因起火燃燒，火勢在強風吹襲下持續延燒，葉片外層材料燒毀脫落。因風機高達 45 公尺（約 15 層樓高），消防人員難以佈水線灌救，僅能在周邊警戒。台電已緊急斷電，經濟部能源署要求台電檢查同類型機組狀況，火勢於當日晚間 19 時 10 分撲滅。
 
 相似新聞：
 1. 台電麥寮風機起火事故已控制 經濟部要求所有業者加強設備巡檢管理
-來源：https://www.moea.gov.tw/MNS/populace/news/News.aspx?kind=1&menu_id=40&news_id=122862
+來源：[www.moea.gov.tw](https://www.moea.gov.tw/MNS/populace/news/News.aspx?kind=1&menu_id=40&news_id=122862)
 
 --
 **台中 76 歲老翁逆向暴衝撞死 38 歲機車騎士，高齡駕駛安全再受關注**
-來源：https://www.ftvnews.com.tw/news/detail/2026531C04M1
+來源：[www.ftvnews.com.tw](https://www.ftvnews.com.tw/news/detail/2026531C04M1)
 台中市南區美村路 5 月 30 日晚間發生重大車禍，76 歲老翁駕車不明原因逆向暴衝，正面撞擊一名 38 歲機車騎士後又撞上路口機車行，肇事車輛當場翻覆。騎士傷重不治，老翁頭部受傷、意識清楚送醫。據了解，老翁去年才依規定通過檢查完成換照，車內未搜出違禁品，事故原因仍待調查。此案恰逢高齡駕駛換照新制上路前夕。
 
 --
 **因應伊波拉疫情升溫，台灣 6/2 起暫停剛果及烏干達居民入境 90 天**
-來源：https://www.cdc.gov.tw/Category/ListContent/RggvuwQuXi2BDpy4DqazMA?uaid=64WhLC3Lcr6B4QUo04UA6A
+來源：[www.cdc.gov.tw](https://www.cdc.gov.tw/Category/ListContent/RggvuwQuXi2BDpy4DqazMA?uaid=64WhLC3Lcr6B4QUo04UA6A)
 疾管署 5 月 29 日宣布，因剛果民主共和國（累計 906 例、223 死）及烏干達（7 例確診、1 死）伊波拉疫情持續升溫，自 6 月 2 日零時起暫停核發兩國居民簽證，已核發者暫緩入境，為期 90 天。僅國人配偶、未成年子女、學位生及外交公務等 4 類對象除外。這是台灣自 2022 年新冠邊境解封以來首度實施的疫情入境管制措施。
 
 相似新聞：
 1. 全面防堵伊波拉 專家：邊境管制仍不夠 轉機旅客須控管
-來源：https://www.rti.org.tw/news?uid=3&pid=211774
+來源：[www.rti.org.tw](https://www.rti.org.tw/news?uid=3&pid=211774)
 2. 致死率極高！伊波拉病毒蔓延 症狀、傳播方式一次看
-來源：https://news.ebc.net.tw/news/world/554246
+來源：[news.ebc.net.tw](https://news.ebc.net.tw/news/world/554246)
 
 --
 **新北三峽深夜民宅火警釀 1 死，67 歲屋主葬身火窟**
-來源：https://news.ltn.com.tw/news/society/breakingnews/5456126
+來源：[news.ltn.com.tw](https://news.ltn.com.tw/news/society/breakingnews/5456126)
 新北市三峽區大埔路一處平房 5 月 31 日深夜 23 時 18 分驚傳火警，消防局出動 30 輛消防車趕赴現場。消防人員以切割器破門搶救，成功救出意識清醒的 66 歲張姓男子，但 67 歲呂姓屋主被發現倒臥門口附近，已明顯死亡。同住的女性室友因當時外出而逃過一劫。張男透露呂男平時有飲酒習慣，火警當時可能受酒精影響導致避難反應不及。
 
 相似新聞：
 1. 三峽大埔路民宅暗夜惡火！住戶躲窗邊獲救、屋主逃生不及葬火窟
-來源：https://news.tvbs.com.tw/local/3218368
+來源：[news.tvbs.com.tw](https://news.tvbs.com.tw/local/3218368)
 
 --
