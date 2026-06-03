@@ -1,34 +1,28 @@
 (function () {
-  if (!window.speechSynthesis) return;
-
-  const synth = window.speechSynthesis;
-  let utterance = null;
-  let paused = false;
-
-  const widget = document.createElement('div');
+  var widget = document.createElement('div');
   widget.id = 'tts-bar';
   widget.innerHTML = '<button id="tts-play">&#9654; 朗讀</button><button id="tts-stop" hidden>&#9632; 停止</button>';
   document.body.appendChild(widget);
 
-  const playBtn = document.getElementById('tts-play');
-  const stopBtn = document.getElementById('tts-stop');
+  var playBtn = document.getElementById('tts-play');
+  var stopBtn = document.getElementById('tts-stop');
 
-  function getText() {
-    const el = document.querySelector('.post-content, main article, main');
-    return el ? el.innerText.trim() : '';
+  var synth = window.speechSynthesis;
+  if (!synth) {
+    playBtn.disabled = true;
+    playBtn.style.opacity = '0.4';
+    playBtn.title = '此瀏覽器不支援語音朗讀';
+    return;
   }
 
-  function start() {
-    const text = getText();
-    if (!text) return;
-    utterance = new SpeechSynthesisUtterance(text);
-    utterance.lang = 'zh-TW';
-    utterance.rate = 1;
-    utterance.onend = reset;
-    synth.speak(utterance);
-    playBtn.textContent = '⏸ 暫停';
-    stopBtn.hidden = false;
-    paused = false;
+  var utterance = null;
+  var paused = false;
+
+  function getText() {
+    var el = document.querySelector('.post-content') ||
+             document.querySelector('main article') ||
+             document.querySelector('main');
+    return el ? el.innerText.trim() : '';
   }
 
   function reset() {
@@ -38,14 +32,27 @@
     utterance = null;
   }
 
+  function start() {
+    var text = getText();
+    if (!text) return;
+    utterance = new SpeechSynthesisUtterance(text);
+    utterance.lang = 'zh-TW';
+    utterance.rate = 1;
+    utterance.onend = reset;
+    synth.speak(utterance);
+    playBtn.innerHTML = '&#9646;&#9646; 暫停';
+    stopBtn.hidden = false;
+    paused = false;
+  }
+
   playBtn.addEventListener('click', function () {
     if (paused) {
       synth.resume();
-      playBtn.textContent = '⏸ 暫停';
+      playBtn.innerHTML = '&#9646;&#9646; 暫停';
       paused = false;
     } else if (synth.speaking) {
       synth.pause();
-      playBtn.textContent = '&#9654; 繼續';
+      playBtn.innerHTML = '&#9654; 繼續';
       paused = true;
     } else {
       start();
