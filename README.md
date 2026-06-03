@@ -1,11 +1,14 @@
 ---
 title: Taiwan News Daily
 layout: home
+permalink: /
 ---
 
 # Taiwan News Daily
 
 台灣每日新聞摘要彙整，收錄過去 24 小時內的熱門報導，以結構化 Markdown 格式儲存。
+
+**網頁版：** https://lazyjerry.github.io/taiwan-news/
 
 ## 文章索引
 
