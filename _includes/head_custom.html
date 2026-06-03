@@ -1,0 +1,25 @@
+<script src="{{ '/assets/js/tts.js' | relative_url }}" defer></script>
+<style>
+  #tts-bar {
+    position: fixed;
+    bottom: 1.5rem;
+    right: 1.5rem;
+    display: flex;
+    gap: 0.5rem;
+    z-index: 999;
+  }
+  #tts-bar button {
+    padding: 0.5rem 1.2rem;
+    border: none;
+    border-radius: 2rem;
+    background: #424242;
+    color: #fff;
+    font-size: 0.9rem;
+    cursor: pointer;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.5);
+    transition: background 0.2s;
+  }
+  #tts-bar button:hover {
+    background: #616161;
+  }
+</style>
