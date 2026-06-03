@@ -2,11 +2,7 @@
   <div class="wrapper">
     <a class="site-title" rel="author" href="{{ '/' | relative_url }}">{{ site.title | escape }}</a>
 
-    {% assign news_pages = site.pages
-      | where_exp: 'p', "p.url contains '/news/' and p.name == 'index.md'"
-      | sort: 'url'
-      | reverse %}
-    {% assign latest_news = news_pages | slice: 0, 8 %}
+    {% assign news_pages = site.pages | sort: 'url' | reverse %}
 
     <nav class="site-nav" aria-label="Primary">
       <input type="checkbox" id="nav-trigger" class="nav-trigger" />
@@ -26,12 +22,27 @@
       <div class="trigger">
         <a class="page-link" href="{{ '/' | relative_url }}">首頁</a>
 
-        {% if latest_news.size > 0 %}
+        {% assign news_count = 0 %}
+        {% assign has_news = false %}
+        {% for post_page in news_pages %}
+          {% if post_page.url contains '/news/' and post_page.name == 'index.md' %}
+            {% assign has_news = true %}
+            {% break %}
+          {% endif %}
+        {% endfor %}
+
+        {% if has_news %}
         <details class="nav-dropdown">
           <summary class="page-link">最新新聞</summary>
           <div class="nav-dropdown-menu">
-            {% for post_page in latest_news %}
-            <a class="page-link" href="{{ post_page.url | relative_url }}">{{ post_page.title | escape }}</a>
+            {% for post_page in news_pages %}
+              {% if post_page.url contains '/news/' and post_page.name == 'index.md' %}
+                <a class="page-link" href="{{ post_page.url | relative_url }}">{{ post_page.title | escape }}</a>
+                {% assign news_count = news_count | plus: 1 %}
+              {% endif %}
+              {% if news_count >= 8 %}
+                {% break %}
+              {% endif %}
             {% endfor %}
           </div>
         </details>
