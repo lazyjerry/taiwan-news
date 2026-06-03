@@ -2,11 +2,10 @@
 title: Taiwan News Daily
 layout: home
 permalink: /
+image: /assets/images/cover.png
 ---
 
-# Taiwan News Daily
-
-台灣每日新聞摘要彙整，收錄過去 24 小時內的熱門報導，以結構化 Markdown 格式儲存。
+台灣每日新聞摘要彙整，收錄過去 24 小時內的熱門報導，以結構化 Markdown 格式儲存。使用 Manus AI 自動產生。
 
 **網頁版：** https://lazyjerry.github.io/taiwan-news/
 
@@ -14,6 +13,7 @@ permalink: /
 
 - [2026-06-02 台灣熱門新聞摘要](news/2026-06-02/)
 - [2026-06-01 台灣熱門新聞摘要](news/2026-06-01/)
+{:.news-list}
 
 ## 資料結構
 

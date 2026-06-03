@@ -1,10 +1,16 @@
 title: Taiwan News Daily
 description: 台灣每日新聞摘要彙整，收錄過去 24 小時內的熱門報導
 lang: zh-TW
-theme: minima
+url: https://lazyjerry.github.io
+baseurl: /taiwan-news
+remote_theme: jekyll/minima
 
 minima:
   skin: dark
 
 permalink: pretty
 
+header_pages: []
+
+plugins:
+  - jekyll-remote-theme
