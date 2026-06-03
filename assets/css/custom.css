@@ -243,6 +243,11 @@ body {
   display: none;
 }
 
+.feed-subscribe,
+a[href$="feed.xml"] {
+  display: none !important;
+}
+
 /* --- TTS button: match accent color --- */
 #tts-bar button {
   background: var(--tn-red) !important;
