@@ -5,6 +5,8 @@ permalink: /
 image: /assets/images/cover.png
 ---
 
+> 目前因為 Manus AI 點數不足（消耗太大了），修復完成以前暫停更新🥹
+
 台灣每日新聞摘要彙整，收錄過去 24 小時內的熱門報導，以結構化 Markdown 格式儲存。使用 Manus AI 自動產生。
 
 **網頁版：** https://lazyjerry.github.io/taiwan-news/
